@@ -25,9 +25,9 @@
   <div>
 <!--     <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
     <a href="https://instagram.com/antonio_hadeoliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discord.gg/seUDt3NAzE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:antoniohadeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/antonio-henrique-a67249145/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://api.whatsapp.com/send?phone=5584996102329&text=sua%20mensagem"target="_blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/30/external-whatsapp-social-media-justicon-flat-justicon.png" target="_blank"></a> 
+    <a href="https://discord.gg/seUDt3NAzE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+    <a href="mailto:antoniohadeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/antonio-henrique-a67249145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+    <a href="https://api.whatsapp.com/send?phone=5584996102329&text=sua%20mensagem" target="_blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/30/external-whatsapp-social-media-justicon-flat-justicon.png"></a> 
     
   </div>
